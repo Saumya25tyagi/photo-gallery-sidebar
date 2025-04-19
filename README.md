@@ -1,4 +1,4 @@
-# 📸 Sidebar Menu Project (Basic)
+# 📸 Sidebar Menu Mini Project (Basic)
 
 A visually appealing **Sidebar Menu UI** created using **HTML & CSS**. This project showcases a smooth sliding sidebar with icon-based navigation, perfect for a photo gallery or media-based website.
 
